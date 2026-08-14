@@ -1271,6 +1271,11 @@
             if(navigator.share) navigator.share({title:'방콕/파타야 3박 5일 · 투어메이커', url:u}).catch(()=>{});
             else navigator.clipboard.writeText(u).then(() => showToast('주소가 복사되었습니다. 카카오톡에 붙여넣기 하세요!'));
         }
+
+        const PRINT_FILENAME = '270309_태국_일정표';
+        const PAGE_TITLE = document.title;
+        window.addEventListener('beforeprint', () => { document.title = PRINT_FILENAME; });
+        window.addEventListener('afterprint', () => { document.title = PAGE_TITLE; });
     </script>
 </body>
 </html>
