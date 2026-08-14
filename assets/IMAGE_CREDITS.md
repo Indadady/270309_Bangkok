@@ -13,5 +13,4 @@
 | day3-sanctuary.jpg | [Commons: Sanctuary of Truth 2016-02-19-02.jpg](https://commons.wikimedia.org/wiki/File:Sanctuary_of_Truth_2016-02-19-02.jpg) | see file page |
 | day4-crocodile.jpg | [Commons: Million stones park and crocodile farm…](https://commons.wikimedia.org/wiki/File:Million_stones_park_and_crocodile_farm_in_Pattaya_01.JPG) | see file page |
 | hotel-pattaya.jpg | [Brighton Grand 공식 사이트](https://www.brightongroups.com/pattaya) 제공 전경 | 호텔 공식 (로컬 호스팅) |
-| hotel-bangkok.jpg | _(미포함)_ 골든튤립은 「또는 동급」 안내 — 전경은 담당자 제공 시 반영 | — |
-| hotel.jpg | _(미포함)_ 담당자 제공 시 반영 | — |
+| hotel-bangkok.jpg | Golden Tulip Sovereign Hotel Bangkok 공식 전경 (IcePortal 75029770) | 호텔 공식 (로컬 호스팅) |
